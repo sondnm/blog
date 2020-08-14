@@ -1,0 +1,4 @@
+[submodule "themes/lightspeed"]
+	path = themes/lightspeed
+	url = git@github.com:carpetscheme/lightspeed.git
+	branch = master
